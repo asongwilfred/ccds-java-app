@@ -1,2 +1,3 @@
-# ccds-java-app
-java app
+# maven-project
+
+Simple Maven Project
